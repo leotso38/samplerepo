@@ -6,3 +6,4 @@
 2. cd <dir> – Change into another directory. 
 3. pwd – Print the current working directory. 
 4. mkdir <dir> – Create a new directory.
+5. rm <file> – Remove a file (use `-r` for directories). 
