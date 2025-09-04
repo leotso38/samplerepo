@@ -4,3 +4,4 @@
 
 1. ls – List files and directories in the current directory.
 2. cd <dir> – Change into another directory. 
+3. pwd – Print the current working directory. 
