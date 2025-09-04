@@ -12,3 +12,5 @@
 8. git init – Initialize a new Git repository. 
 9. git status – Show changes (staged, unstaged, untracked). 
 10. git add <file> – Stage changes for commit. 
+11. git commit -m "message" – Save staged changes to history. 
+
