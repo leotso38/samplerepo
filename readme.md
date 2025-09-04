@@ -9,3 +9,5 @@
 5. rm <file> – Remove a file (use `-r` for directories). 
 6. cp <src> <dest> – Copy files or directories. 
 7. mv <src> <dest> – Move or rename files or directories. 
+8. git init – Initialize a new Git repository. 
+
