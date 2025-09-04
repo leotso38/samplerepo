@@ -16,4 +16,4 @@
 12. git branch – List, create, or delete branches. 
 13. git switch <branch> – Switch to another branch. 
 14. git merge <branch> – Merge another branch into the current branch. 
-
+15. git push – Upload local commits to a remote repository. 
