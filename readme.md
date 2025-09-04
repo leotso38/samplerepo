@@ -10,4 +10,4 @@
 6. cp <src> <dest> – Copy files or directories. 
 7. mv <src> <dest> – Move or rename files or directories. 
 8. git init – Initialize a new Git repository. 
-
+9. git status – Show changes (staged, unstaged, untracked). 
