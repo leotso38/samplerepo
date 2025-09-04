@@ -7,3 +7,4 @@
 3. pwd – Print the current working directory. 
 4. mkdir <dir> – Create a new directory.
 5. rm <file> – Remove a file (use `-r` for directories). 
+6. cp <src> <dest> – Copy files or directories. 
