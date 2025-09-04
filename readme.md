@@ -15,3 +15,5 @@
 11. git commit -m "message" – Save staged changes to history. 
 12. git branch – List, create, or delete branches. 
 13. git switch <branch> – Switch to another branch. 
+14. git merge <branch> – Merge another branch into the current branch. 
+
