@@ -13,4 +13,4 @@
 9. git status – Show changes (staged, unstaged, untracked). 
 10. git add <file> – Stage changes for commit. 
 11. git commit -m "message" – Save staged changes to history. 
-
+12. git branch – List, create, or delete branches. 
